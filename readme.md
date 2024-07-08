@@ -35,8 +35,8 @@
 ### Others:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white)
-![LLAMA](https://img.shields.io/badge/LLAMA-000000?style=for-the-badge&logoColor=white)
+![RAG & FineTuning](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=white)
+![LLAMA 3](https://img.shields.io/badge/LLAMA-000000?style=for-the-badge&logoColor=white)
 
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
